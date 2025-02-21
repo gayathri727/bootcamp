@@ -1,39 +1,57 @@
 
 
-### **1. Life Expectancy Chart**
-- **What We Learned:**
-  - A line chart effectively represents the trend of life expectancy over time.
-  - Using the **X-axis for Average Life Expectancy** and **Y-axis for Year** helps visualize changes over decades.
-  - Formatting the chart (titles, labels, gridlines) improves readability.
+#### **1. Life Expectancy Chart**  
+- **What I learned:**  
+  - How to create a line chart using a dataset.  
+  - Plotting Life Expectancy (X-axis) against Year (Y-axis).  
+  - Basic data visualization techniques in a tool like Matplotlib, Seaborn, or Excel.  
 
-- **Difficulties Faced:**
-  - Inverting the axes in Excel (since typically time is on the X-axis).
-  - Finding reliable data sources for historical life expectancy figures.
-  - Ensuring a smooth trendline without missing years.
+- **Challenges faced:**  
+  - Understanding how to structure the dataset properly.  
+  - Formatting the chart for readability (axis labels, titles, and scales).  
 
----
+#### **2. Income Chart**  
+- **What I learned:**  
+  - Handling financial data in visualization.  
+  - Using a line chart to show economic trends over time.  
 
-### **2. Income Chart**
-- **What We Learned:**
-  - A line chart is useful for tracking **average income growth over the years**.
-  - Adjusting **scaling for income values** is crucial, as income values can vary significantly over time.
-  - Trend analysis can be enhanced with additional features like a moving average.
+- **Challenges faced:**  
+  - Dealing with missing or inconsistent data.  
+  - Understanding inflation-adjusted values vs raw income data.  
 
-- **Difficulties Faced:**
-  - Handling different inflation-adjusted income values (real vs. nominal income).
-  - Ensuring income data was consistently measured across years.
-  - Choosing a suitable scale to avoid misleading trends.
+#### **3. Happiness Score**  
+- **What I learned:**  
+  - Multi-line charts with a legend to compare multiple countries.  
+  - Interpreting World Happiness Report (WHR) data.  
 
----
+- **Challenges faced:**  
+  - Managing multiple data lines and ensuring clear visualization.  
+  - Finding a suitable dataset that covers multiple countries.  
 
-### **3. Rise of Cell Phones**
-- **What We Learned:**
-  - A line chart can effectively show the **growth of cell phone adoption** over time.
-  - The number of **cell phones per person** has grown exponentially in many countries.
-  - Adding **annotations** to highlight key technological advancements (e.g., smartphones, 4G, 5G) improves understanding.
+#### **4. Rise of Cell Phones**  
+- **What I learned:**  
+  - Representing technological adoption trends over time.  
+  - Understanding how cell phone usage has changed globally.  
 
-- **Difficulties Faced:**
-  - Finding historical data, especially from early years when mobile phones were rare.
-  - Handling nonlinear growth patterns (rapid rise in the 2000s).
-  - Deciding whether to use global or country-specific data for better insights.
+- **Challenges faced:**  
+  - Cleaning and structuring data for visualization.  
+  - Adjusting for population differences in different countries.  
+
+#### **Bonus: Validate Data of Cell Phones per 100 People**  
+- **What I learned:**  
+  - Joining multiple datasets (Cell Phones & Population).  
+  - Performing validation by comparing computed ratios.  
+
+- **Challenges faced:**  
+  - Writing correct formulas for validation.  
+  - Handling discrepancies between datasets.  
+
+#### **5. Replicating Hans Rosling’s Bubble Chart**  
+- **What I learned:**  
+  - Creating a Bubble Chart to compare multiple variables.  
+  - Implementing a dropdown to change the year dynamically.  
+
+- **Challenges faced:**  
+  - Understanding how to size bubbles properly.  
+  - Implementing interactivity for selecting different years.  
 
