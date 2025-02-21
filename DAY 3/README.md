@@ -1,9 +1,5 @@
 
-Here's a structured summary of what you've learned and the difficulties you faced while working on these tasks:  
 
----
-
-### **Summary of Learning and Challenges**
 
 #### **1. Life Expectancy Chart**  
 - **What I learned:**  
@@ -60,6 +56,6 @@ Here's a structured summary of what you've learned and the difficulties you face
   - Understanding how to size bubbles properly.  
   - Implementing interactivity for selecting different years.  
 
----
 
-This breakdown summarizes your progress, key learnings, and difficulties. Would you like help with a specific issue or improving any of these charts? 🚀
+
+
